@@ -1,2 +1,0 @@
-# RNN
-Implementation of RNN
